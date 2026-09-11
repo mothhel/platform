@@ -9,7 +9,6 @@ import 'providers/request_provider.dart'; // 🔥 تم استيراد مزود �
 
 import 'views/auth/login_screen.dart';
 
-
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
@@ -45,3 +44,9 @@ class PlatformApp extends StatelessWidget {
     );
   }
 }
+
+
+
+
+
+// احمد الحسني
